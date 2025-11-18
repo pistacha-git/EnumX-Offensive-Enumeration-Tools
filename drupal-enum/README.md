@@ -1,3 +1,4 @@
+```text
 ██████═╗ ██████╗  ██╗   ██╗ ██████╗  █████╗   ██╗     
 ██   ██║ ██╔══██╗ ██║   ██║ ██╔══██╗ ██╔══██╗ ██║     
 ██   ██║ ██████╔╝ ██║   ██║ ██████╔╝ ███████║ ██║     
@@ -13,7 +14,7 @@
 ╚══════╝ ╚═╝  ╚═══╝  ╚═════╝  ╚═╝     ╚═╝
   Drupal Enumeration Framework v3.0
         Crafted by @pistacha-git
-        
+```        
 A comprehensive **Drupal enumeration & security auditing tool** written in Bash.  
 Esta herramienta permite un reconocimiento profundo de sitios Drupal, para propósitos de auditoría de seguridad.
 
