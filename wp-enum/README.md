@@ -1,12 +1,17 @@
 # WordPress Enumerator v3.0
+```text
 ██╗ ██╗██████╗ ███████╗███╗ ██╗██╗ ██╗███╗ ███╗
 ██║ ██║██╔══██╗ ██╔════╝████╗ ██║██║ ██║████╗ ████║
 ██║ █╗ ██║██████╔╝ █████╗ ██╔██╗ ██║██║ ██║██╔████╔██║
 ██║███╗██║██╔═══╝ ██╔══╝ ██║╚██╗██║██║ ██║██║╚██╔╝██║
 ╚███╔███╔╝██║ ███████╗██║ ╚████║╚██████╔╝██║ ╚═╝ ██║
 ╚══╝╚══╝ ╚═╝ ╚══════╝╚═╝ ╚═══╝ ╚═════╝ ╚═╝ ╚═╝
-               WordPress Enumeration Framework v3.0
-                   Crafted by @pistacha-git
+
+  WordPress Enumeration Framework v3.0
+       Crafted by @pistacha-git
+
+
+```
 
 Professional WordPress reconnaissance and enumeration framework for authorized penetration testing.
 
