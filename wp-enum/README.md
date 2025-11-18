@@ -51,3 +51,26 @@ git clone https://github.com/pistacha-git/EnumX-Offensive-Enumeration-Tools.git
 cd EnumX-Offensive-Enumeration-Tools
 chmod +x wp-enum.sh
 ```
+
+## ▶️ Usage
+```bash
+./wp-enum.sh <target_url> [output_file]
+```
+
+⚠️ Legal Disclaimer
+
+This tool is intended exclusively for:
+
+Authorized penetration testing
+
+Educational purposes
+
+Research in controlled environments
+
+Unauthorized use against systems without explicit permission is illegal and unethical.
+
+
+🧩 Author
+
+Crafted by @pistacha-git
+GitHub: https://github.com/pistacha-git
