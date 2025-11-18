@@ -140,6 +140,5 @@ Unauthorized use against systems without explicit permission is illegal and unet
 Crafted by: @pistacha-git
 GitHub: https://github.com/pistacha-git
 
-
-![image](https://github.com/user-attachments/assets/48b6399d-9f63-4361-842c-505c2a25bb14)
+<img width="1162" height="596" alt="image" src="https://github.com/user-attachments/assets/b9c421c5-cb0b-45dd-8345-039072c541f7" />
 
