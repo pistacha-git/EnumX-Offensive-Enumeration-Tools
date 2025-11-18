@@ -25,7 +25,7 @@ Professional WordPress reconnaissance and enumeration framework for authorized p
 - **Theme Detection** – Active theme identification with version extraction
 - **Structured Output** – Color-coded terminal output + optional file logging
 
-###🔐Security Checks
+### 🔐Security Checks
 - **XML-RPC Status** – Detects if XML-RPC is enabled (brute force/DDoS vector)
 - **Sensitive Files** – Scans for exposed config files, backups, debug logs
 - **Directory Listing** – Tests for enabled directory browsing
