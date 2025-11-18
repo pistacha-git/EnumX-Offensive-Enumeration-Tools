@@ -37,8 +37,8 @@ It integrates multiple discovery techniques to extract useful security informati
 
 - This tool provides detailed, color‑coded output and supports optional report generation.
 
-##🚀 Features
-###Core Enumeration
+## 🚀 Features
+### Core Enumeration
 
 - **Drupal Version Detection** 
 
@@ -68,7 +68,7 @@ It integrates multiple discovery techniques to extract useful security informati
 
 - **Enumeration of theme directories**
 
-##🔐 Security Checks
+## 🔐 Security Checks
 
 - **Sensitive Files Testing**
 
@@ -98,9 +98,9 @@ It integrates multiple discovery techniques to extract useful security informati
 
 - **HTTP → HTTPS redirection validation**
 
-##🛠️ Requirements
+## 🛠️ Requirements
 
-###Dependencies
+### Dependencies
 
 `bash` (5.0+)
 
@@ -114,7 +114,7 @@ It integrates multiple discovery techniques to extract useful security informati
 
 `jq` — Optional, for JSON parsing when endpoints return JSON
 
-##💻 Installation
+## 💻 Installation
 
 Clone the repository:
 ```bash
@@ -123,7 +123,7 @@ cd EnumX-Offensive-Enumeration-Tools
 chmod +x drupal-enum.sh
 ```
 
-##▶️ Usage
+## ▶️ Usage
 ```bash
 ./drupal-enum.sh <target_url> [output_file]
 ```
