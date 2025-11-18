@@ -41,3 +41,13 @@ Professional WordPress reconnaissance and enumeration framework for authorized p
 - `awk` – Text processing
 - `sed` – Stream editing
 - `jq` – JSON parsing (optional but recommended for better REST API parsing)
+
+## 💻 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/tuusuario/tu-repo.git
+cd tu-repo
+chmod +x wp-enum.sh
+```
