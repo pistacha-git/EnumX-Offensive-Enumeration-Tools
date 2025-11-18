@@ -40,63 +40,64 @@ It integrates multiple discovery techniques to extract useful security informati
 ## 🚀 Features
 ### Core Enumeration
 
-- **Drupal Version Detection** 
+- **Drupal Version Detection** – Identifies the version of the target Drupal installation using multiple discovery techniques.
 
-- **CHANGELOG.txt extraction**
+- **CHANGELOG.txt Extraction** – Attempts to retrieve the core CHANGELOG.txt, often exposing the exact Drupal version.
 
-- **README.txt & VERSION file detection**
+- **README.txt & VERSION File Detection** – Probes for common documentation files frequently left publicly accessible.
 
-- **Generator meta‑tag parsing**
+- **Generator Meta‑Tag Parsing** – Examines the HTML <meta name="Generator"> tag, which may disclose the Drupal version.
 
-- **Module Enumeration**
+- **Module Enumeration** – Comprehensive detection of installed modules through different enumeration strategies.
 
-- **Local module list database**
+- **Local Module List Database** – Matches known Drupal module names from a local signature database.
 
-- **Pattern-based module discovery in HTML**
+- **Pattern‑Based Module Discovery in HTML** – Extracts module names by scanning page source for /modules/ references.
 
-- **/sites/all/modules, /modules/contrib, /modules/custom directory probing**
+- **Directory Probing (/sites/all/modules, /modules/contrib, /modules/custom)** – Searches classical Drupal module locations and detects directory listing.
 
-- **Module signature matching**
+- **Module Signature Matching** – Uses keyword detection to confirm module names found in HTML or directory listings.
 
-- **Module version extraction when possible**
+- **Module Version Extraction** – Retrieves module version numbers from accessible .info or .yml files when available.
 
-- **Theme Detection**
+- **Theme Detection** – Identifies the active theme and enumerates themes present on the system.
 
-- **Active theme name extraction**
+- **Active Theme Name Extraction** – Detects the main theme used by the target site.
 
-- **Header/CSS asset pattern analysis**
+- **Header/CSS Asset Pattern Analysis** – Infers theme names from CSS/JS file paths in page headers.
 
-- **Enumeration of theme directories**
+- **Theme Directory Enumeration** – Probes theme directories for listing and accessible metadata.
+  
 
 ## 🔐 Security Checks
 
-- **Sensitive Files Testing**
+- **Sensitive Files Testing** – Locates exposed or misconfigured files that may leak sensitive information.
 
-- **Exposed configuration files**
+- **Exposed Configuration Files** – Checks for settings.php, backups, or exported configs visible to the public.
 
-- **Backup files**
+- **Backup Files** – Attempts to identify backup archives or old configuration snapshots.
 
-- **Common Drupal debug files**
+- **Common Drupal Debug Files** – Searches for debug logs or leftover development artifacts.
 
-- **Directory Listing Detection**
+- **Directory Listing Detection** – Determines whether directory indexing is enabled on critical Drupal paths.
 
-- **Auto‑indexing in module & theme directories**
+- **Auto‑Indexing in Module & Theme Directories** – Detects open listings that expose installed modules/themes.
 
-- **Listing traversal and module extraction**
+- **Listing Traversal and Module Extraction** – Extracts module names directly from accessible file listings.
 
-- **Endpoint Enumeration**
+- **Endpoint Enumeration** – Maps typical Drupal routes to detect exposure or misconfiguration.
 
-- **/user/1 and user page probing**
+- **/user/1 and User Page Probing** – Checks whether user profiles are publicly accessible.
 
-- **/admin/ exposure checks**
+- **/admin/ Exposure Checks** – Identifies whether admin paths leak information or are improperly protected.
 
-- **/core/, /misc/, /sites/ directory mapping**
+- **/core/, /misc/, /sites/ Directory Mapping** – Examines core Drupal directories for public accessibility.
 
-- **Security Headers & HTTPS Checks**
+- **Security Headers & HTTPS Checks** – Performs a basic security assessment on HTTP responses.
 
-- **HSTS, CSP, X‑Frame‑Options, etc.**
+- **HSTS, CSP, X‑Frame‑Options, etc.** – Identifies missing or weak security headers.
 
-- **HTTP → HTTPS redirection validation**
+- **HTTP → HTTPS Redirection Validation** – Verifies secure redirection and proper TLS usage.
 
 ## 🛠️ Requirements
 
