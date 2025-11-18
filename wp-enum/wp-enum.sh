@@ -1,4 +1,3 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 #!/bin/bash
 
 # WordPress Enumeration Script - Professional Edition
