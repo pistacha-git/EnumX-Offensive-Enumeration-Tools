@@ -25,9 +25,6 @@ chmod +x wp-enum.sh
 ./wp-enum.sh https://example.com report.txt
 ```
 
-📚 **For detailed usage instructions, see [USAGE.md](USAGE.md)**  
-📋 **For real-world examples, see [EXAMPLES.md](EXAMPLES.md)**
-
 ## 🔍 Enumeration Techniques
 
 ### 1. WordPress Detection
