@@ -283,5 +283,7 @@ The author assumes no liability for misuse or damage caused by this tool. Always
 
 
 🧩 Author
+
 Crafted by: @pistacha-git
+
 GitHub: https://github.com/pistacha-git
