@@ -3,10 +3,10 @@ EnumX is a curated collection of offensive security enumeration tools designed f
 Currently includes enumeration tools for WordPress and Drupal, with upcoming additions such as SMB enumeration, exposed-service scanning, and additional offensive utilities.
 
 ⚠️ LEGAL DISCLAIMER: 
+
 These tools are intended exclusively for authorized security testing, educational purposes, and research in controlled environments. Unauthorized use against systems you don't own or have explicit permission to test is illegal and unethical.
 
 🎯 Purpose:
-
 This repository provides specialized enumeration scripts that help security professionals:
 Map attack surfaces during reconnaissance phases
 Identify misconfigurations and information disclosure vulnerabilities
