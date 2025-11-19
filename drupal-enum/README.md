@@ -114,7 +114,7 @@ It integrates multiple discovery techniques to extract useful security informati
 Clone the repository:
 ```bash
 git clone https://github.com/pistacha-git/EnumX-Offensive-Enumeration-Tools.git
-cd EnumX-Offensive-Enumeration-Tools
+cd EnumX-Offensive-Enumeration-Tools/drupal-enum
 chmod +x drupal-enum.sh
 ```
 
