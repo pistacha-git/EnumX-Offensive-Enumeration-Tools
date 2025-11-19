@@ -185,10 +185,15 @@ It integrates multiple discovery techniques to extract critical security informa
 ### Dependencies
 
 `bash` (4.0+)
+
 `curl` — HTTP requests and header inspection
+
 `grep` — Pattern matching and content extraction
+
 `awk` — Text processing
+
 `sed` — Stream editing and output formatting
+
 
 All dependencies are typically pre-installed on most Linux distributions.
 
