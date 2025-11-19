@@ -287,3 +287,5 @@ The author assumes no liability for misuse or damage caused by this tool. Always
 Crafted by: @pistacha-git
 
 GitHub: https://github.com/pistacha-git
+
+<img width="940" height="888" alt="image" src="https://github.com/user-attachments/assets/d09aed89-8b7d-4644-8f30-9c50a6c9053a" />
