@@ -48,7 +48,7 @@ Professional WordPress reconnaissance and enumeration framework for authorized p
 Clone the repository:
 ```bash
 git clone https://github.com/pistacha-git/EnumX-Offensive-Enumeration-Tools.git
-cd EnumX-Offensive-Enumeration-Tools
+cd EnumX-Offensive-Enumeration-Tools/wp-enum
 chmod +x wp-enum.sh
 ```
 
