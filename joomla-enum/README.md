@@ -144,7 +144,7 @@ It integrates multiple discovery techniques to extract critical security informa
 - **X-Powered-By Header Disclosure** – Detects information leakage through server technology headers.
   
 - **Server Banner Inspection** – Examines server identification headers that may reveal version information
-- 
+  
 - **SSL/TLS Configuration Assessment** – Validates proper encryption implementation and certificate usage.
   
 - **HTTPS Usage Verification** – Confirms whether the site operates over encrypted connections.
