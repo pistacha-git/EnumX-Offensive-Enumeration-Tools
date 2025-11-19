@@ -6,8 +6,8 @@
 ██████╔╝ ██║  ██║ ╚██████╔╝ ██║      ██║  ██║ ███████╗      ███████╗ ██║ ╚████║ ╚██████╔╝ ██║ ╚═╝ ██║
 ╚═════╝  ╚═╝  ╚═╝  ╚═════╝  ╚═╝      ╚═╝  ╚═╝ ╚══════╝      ╚══════╝ ╚═╝  ╚═══╝  ╚═════╝  ╚═╝     ╚═╝
 
-                          Drupal Enumeration Framework v3.0
-                             Crafted by @pistacha-git
+                                 Drupal Enumeration Framework v3.0
+                                     Crafted by @pistacha-git
 ```        
 Professional Drupal reconnaissance and enumeration framework for authorized penetration testing.
 ## Description
