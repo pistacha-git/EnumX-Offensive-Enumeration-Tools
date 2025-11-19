@@ -201,19 +201,19 @@ All dependencies are typically pre-installed on most Linux distributions.
 Clone the repository:
 ```bash
 git clone https://github.com/pistacha-git/EnumX-Offensive-Enumeration-Tools.git
-cd EnumX-Offensive-Enumeration-Tools
+cd EnumX-Offensive-Enumeration-Tools/joomla-enum
 chmod +x joomla-enum.sh
 ```
 
 ## ▶️ Usage
 ```bash
-bash./joomla-enum.sh <target_url>
+./joomla-enum.sh <target_url>
 ```
 Scan with Report Generation
 ```bash
-bash./joomla-enum.sh <target_url> output_report.txt
+./joomla-enum.sh <target_url> output_report.txt
 ```
-¡
+
 ### Output Files
 When an output file is specified, the tool generates:
 - **Main report**: Complete enumeration results with formatting
