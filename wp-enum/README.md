@@ -69,6 +69,9 @@ Research in controlled environments
 
 Unauthorized use against systems without explicit permission is illegal and unethical.
 
+<div align="center">
+  <img width="634" height="528" alt="image" src="https://github.com/user-attachments/assets/42c7bb17-9d9d-44ec-bdae-4b42099bf5c0" />
+</div>
 
 🧩 Author
 
@@ -76,6 +79,10 @@ Crafted by @pistacha-git
 
 GitHub: https://github.com/pistacha-git
 
+<div align="center">
+  <img width="500" height="500" alt="PistachaHacker" src="https://github.com/user-attachments/assets/d3242a6a-a0e3-4641-a46c-0fbb2f2873e2" />
+</div>
 
-<img width="634" height="528" alt="image" src="https://github.com/user-attachments/assets/42c7bb17-9d9d-44ec-bdae-4b42099bf5c0" />
+
+
 
