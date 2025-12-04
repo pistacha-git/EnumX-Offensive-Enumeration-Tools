@@ -281,6 +281,9 @@ Unauthorized use against systems without explicit written permission is illegal 
 
 The author assumes no liability for misuse or damage caused by this tool. Always obtain proper authorization before conducting security assessments.
 
+<div align="center">
+  <img width="940" height="888" alt="image" src="https://github.com/user-attachments/assets/d09aed89-8b7d-4644-8f30-9c50a6c9053a" />
+</div>
 
 🧩 Author
 
@@ -288,4 +291,9 @@ Crafted by: @pistacha-git
 
 GitHub: https://github.com/pistacha-git
 
-<img width="940" height="888" alt="image" src="https://github.com/user-attachments/assets/d09aed89-8b7d-4644-8f30-9c50a6c9053a" />
+<div align="center">
+  <img width="500" height="500" alt="PistachaHacker" src="https://github.com/user-attachments/assets/d3242a6a-a0e3-4641-a46c-0fbb2f2873e2" />
+</div>
+
+
+
