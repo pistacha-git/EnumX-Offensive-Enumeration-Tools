@@ -134,9 +134,9 @@ Security research in controlled environments
 Educational purposes
 
 Unauthorized use against systems without explicit permission is illegal and unethical.
-
-<img width="1162" height="596" alt="image" src="https://github.com/user-attachments/assets/b9c421c5-cb0b-45dd-8345-039072c541f7" />
-
+<div align="center">
+  <img width="1162" height="596" alt="image" src="https://github.com/user-attachments/assets/b9c421c5-cb0b-45dd-8345-039072c541f7" />
+</div>
 
 🧩 Author
 
