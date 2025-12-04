@@ -137,13 +137,14 @@ Unauthorized use against systems without explicit permission is illegal and unet
 
 🧩 Author
 
+Crafted by: @pistacha-git
+GitHub: https://github.com/pistacha-git
+
 <div align="center">
   <img width="500" height="500" alt="PistachaHacker" src="https://github.com/user-attachments/assets/d3242a6a-a0e3-4641-a46c-0fbb2f2873e2" />
 </div>
 
 
-Crafted by: @pistacha-git
-GitHub: https://github.com/pistacha-git
-
 <img width="1162" height="596" alt="image" src="https://github.com/user-attachments/assets/b9c421c5-cb0b-45dd-8345-039072c541f7" />
+
 
